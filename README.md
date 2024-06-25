@@ -1,11 +1,37 @@
-# Sample Snack app
+# rn-assignment5-ID
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+This is a mobile application built with React Native that includes a Home screen, a Settings screen, and a feature to switch between light and dark themes.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## How to Run
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+1. Clone the repository to your local machine.
+2. Install the dependencies using `npm install` or `yarn install`.
+3. Run the application using `npm start` or `yarn start`.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Features
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Home screen with a card, actions, and a list of transactions.
+- Settings screen with options and a theme switch.
+- Bottom tab navigation with icons.
+- Light and dark theme support.
+
+## Screenshots
+
+### Home Screen
+![Screenshot 2024-06-25 031651](https://github.com/Gryp-tech/rn-assignment5-11048898/assets/170188389/181c39ed-a2ce-4f1e-8dcf-e452059717aa)
+
+
+### Settings Screen
+![Screenshot 2024-06-25 181139](https://github.com/Gryp-tech/rn-assignment5-11048898/assets/170188389/32f906f8-5189-4169-9daa-42ba664c88f4)
+
+## Dependencies
+
+- React
+- React Native
+- React Navigation
+- Styled-components
+- React Native Vector Icons
+
+## License
+
+This project is licensed under the MIT License.
